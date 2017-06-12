@@ -1148,8 +1148,9 @@ FAQ Page
 Video Section style
 ======================*/
 .video{
-    background: url(../images/background/video.jpg) no-repeat center center;
+    background: url(../images/background/mcgee-vid.png) no-repeat center center;
     background-size: cover;
+    background-position: 50% 30%;
     position: relative;
 }
 .main_video{
@@ -1266,7 +1267,7 @@ Impress section style
 ========================*/
 
 .impress{
-    background:url(../images/background/work-together.jpg) no-repeat center center;
+    background:url(../images/background/book.jpg) no-repeat center center;
     background-size: cover;
     position: relative;
 }
@@ -1536,7 +1537,7 @@ Brand Section style
 Subscribe Section style
 =====================*/
 .subscribe{
-    background: url(../images/background/subscribe.jpg) no-repeat center center;
+    background: url(../images/background/subscribe-update.jpg) no-repeat center center;
     background-size: cover;
     position: relative;
 }
